@@ -1,0 +1,10 @@
+body{
+    background-color: navy;
+}
+#camera {
+    width: 210px;
+    height: 300px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 210px;
+}
